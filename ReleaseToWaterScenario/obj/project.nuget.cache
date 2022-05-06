@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "LmFhleKJa760vYuPue2jV1Cnf3WK5pXyyS6kTatm2T8fqWqcFQNpXtyS7cCgGZ2skdexbYkxSWTLsF9poz2IZw==",
+  "success": true,
+  "projectFilePath": "C:\\ReleaseToWaterScenarioProject\\ReleaseToWaterScenario\\ReleaseToWaterScenario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gbenga\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
+    "C:\\Users\\Gbenga\\.nuget\\packages\\gherkin\\19.0.3\\gherkin.19.0.3.nupkg.sha512",
+    "C:\\Users\\Gbenga\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
+    "C:\\Users\\Gbenga\\.nuget\\packages\\microsoft.net.test.sdk\\17.1.0\\microsoft.net.test.sdk.17.1.0.nupkg.sha512",
+    "C:\\Users\\Gbenga\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Gbenga\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\Gbenga\\.nuget\\packages\\selenium.support\\4.1.1\\selenium.support.4.1.1.nupkg.sha512",
+    "C:\\Users\\Gbenga\\.nuget\\packages\\selenium.webdriver\\4.1.1\\selenium.webdriver.4.1.1.nupkg.sha512",
+    "C:\\Users\\Gbenga\\.nuget\\packages\\selenium.webdriver.chromedriver\\101.0.4951.4100\\selenium.webdriver.chromedriver.101.0.4951.4100.nupkg.sha512",
+    "C:\\Users\\Gbenga\\.nuget\\packages\\specflow\\3.9.69\\specflow.3.9.69.nupkg.sha512",
+    "C:\\Users\\Gbenga\\.nuget\\packages\\specflow.internal.json\\1.0.8\\specflow.internal.json.1.0.8.nupkg.sha512",
+    "C:\\Users\\Gbenga\\.nuget\\packages\\specflow.nunit\\3.9.69\\specflow.nunit.3.9.69.nupkg.sha512",
+    "C:\\Users\\Gbenga\\.nuget\\packages\\specflow.tools.msbuild.generation\\3.9.69\\specflow.tools.msbuild.generation.3.9.69.nupkg.sha512",
+    "C:\\Users\\Gbenga\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
